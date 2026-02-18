@@ -1,15 +1,17 @@
-{
-  "id": 1,
-  "message": "Rezidentura sualları əlavə olundu! Uğurlar.",
-  "is_active": false
-},
-{
-  "id": 2,
-  "message": "Yeni Rezidentura sualları əlavə olundu! Uğurlar.",
-  "is_active": false
-},
-{
-  "id": 3,
-  "message": "Yeni Rezidentura sınaq əlavə olundu! Uğurlar.",
-  "is_active": true
-}
+[
+  {
+    "id": 1,
+    "message": "Rezidentura sualları əlavə olundu! Uğurlar.",
+    "is_active": false
+  },
+  {
+    "id": 2,
+    "message": "Yeni Rezidentura sualları əlavə olundu! Uğurlar.",
+    "is_active": false
+  },
+  {
+    "id": 3,
+    "message": "Yeni Rezidentura sınaq əlavə olundu! Uğurlar.",
+    "is_active": true
+  }
+]
