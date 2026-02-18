@@ -1,5 +1,10 @@
 {
   "id": 1,
   "message": "Yeni Rezidentura sınağı əlavə olundu! Uğurlar.",
+  "is_active": false
+},
+{
+  "id": 2,
+  "message": "Yeni Rezidentura sualları əlavə olundu! Uğurlar.",
   "is_active": true
 }
