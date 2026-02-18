@@ -17,6 +17,11 @@
   {
     "id": 4,
     "message": "Yeni yeni Rezidentura sınaq əlavə olundu! Uğurlar.",
+    "is_active": false
+  },
+  {
+    "id": 5,
+    "message": "Daha yeni Rezidentura sınaq əlavə olundu! Uğurlar.",
     "is_active": true
   }
 ]
